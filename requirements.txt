@@ -1,0 +1,12 @@
+openl3
+librosa
+requests
+numpy
+os
+re
+math
+tqdm
+datetime
+collections
+pydub
+scikit-learn
